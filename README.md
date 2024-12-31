@@ -1,4 +1,4 @@
-## Auteures: VO Nguyen Thao Nhi, Samanta LAMOUR
+## Auteures: VO Nguyen Thao Nhi, LAMOUR Samanta 
 
 # Installation
 1. Cloner le dépôt GitHub :
